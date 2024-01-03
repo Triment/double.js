@@ -1,4 +1,4 @@
-import { AnyNode, ExpressionStatement } from "acorn";
+import { ExpressionStatement } from "acorn";
 import { Environment } from "../environment";
 import Interpret from "..";
 
